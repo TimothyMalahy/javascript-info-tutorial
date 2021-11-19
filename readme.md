@@ -1,0 +1,1 @@
+Intention is to follow along with [javascript.info](https://javascript.info/first-steps)
